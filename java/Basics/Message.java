@@ -1,3 +1,5 @@
+package Basics;
+
 public class Message {
 
   static int instanceCount = 0;

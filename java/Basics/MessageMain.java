@@ -1,3 +1,5 @@
+package Basics;
+
 public class MessageMain {
 
   public static void main(String[] args) {

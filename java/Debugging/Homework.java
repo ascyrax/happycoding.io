@@ -1,3 +1,5 @@
+package Debugging;
+
 import java.io.PrintWriter;
 import java.io.FileNotFoundException;
 import java.awt.Point;
